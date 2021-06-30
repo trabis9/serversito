@@ -6,6 +6,6 @@
 Unete Al Pinche Server
 
 ### Info
-```bash```
+```bash
 >  [`Optifine`](https://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre24.jar&x=60e2) <br>
 >  [`IP`] nomameschifu.aternos.me
