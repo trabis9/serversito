@@ -7,33 +7,4 @@ Unete Al Pinche Server
 
 ### Info
 ```bash
-> pkg update && pkg upgrade
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> git clone https://github.com/trabis9/botsitobymau
-> cd botsitobymau
-> npm install
-```
-###### Run🏃🏻‍♂️
-```bash
-> node . [<session name>] (session name is optional)
-```
-
----------
-
-### Para Usuarios De Pc/For Pc Users
-* Descarga e Instala Git/Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
-* Descarga e Instala NodeJS/Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
-* Descarga e Instala FFMPEG/Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
-* Descarga e Instala ImageMagick/Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis wont work,  checklist columns 1,2,3,5,6) 
-```bash
-> git clone https://github.com/trabis9/botdupapucueva
-> cd botsitobymau
-> npm install
-```
-###### Run
-```bash
-> node index.js
-```
+> Optifine [`Click Here`](https://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre24.jar&x=60e2) <br>
