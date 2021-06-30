@@ -2,7 +2,7 @@
 <img src="https://media4.giphy.com/media/IbekjrW43xz0XNtpe0/giphy.gif?cid=ecf05e47ga6kdb5istlfdrad9yuw3rz2bv6l29lha8glz35y&rid=giphy.gif&ct=g" width="270" height="480"/>
 </p>
 
-# Botsito Papu Cueva
+# Serversito
 Bot Pa La Papu Cueva
 
 BOT BY 𝕸𝖆𝖚 𝕸𝖔𝖉𝖉𝖊𝖗 𝕠𝕗 𝕋.𝕕.𝕄〽️
