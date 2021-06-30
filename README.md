@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media4.giphy.com/media/IbekjrW43xz0XNtpe0/giphy.gif?cid=ecf05e47ga6kdb5istlfdrad9yuw3rz2bv6l29lha8glz35y&rid=giphy.gif&ct=g" width="270" height="480"/>
+<img src="https://media2.giphy.com/media/1LweXxLwVT0J2/giphy.mp4?cid=ecf05e47fpyobztidd35dxqmma3j2bg4jzqycnb4ijv0xqdk&rid=giphy.mp4&ct=g" width="480"height"480"/>
 </p>
 
 # Serversito
@@ -7,5 +7,5 @@ Unete Al Pinche Server
 
 ### Info
 ```bash```
-> Optifine [`Click Here`](https://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre24.jar&x=60e2) <br>
-* Descarga e Instala NodeJS/Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
+>  [`Optifine`](https://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre24.jar&x=60e2) <br>
+>  [`IP`] nomameschifu.aternos.me
