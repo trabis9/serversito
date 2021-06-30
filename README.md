@@ -3,11 +3,9 @@
 </p>
 
 # Serversito
-Bot Pa La Papu Cueva
+Unete Al Pinche Server
 
-BOT BY 𝕸𝖆𝖚 𝕸𝖔𝖉𝖉𝖊𝖗 𝕠𝕗 𝕋.𝕕.𝕄〽️
-
-### Para Usuarios De Termux/For Termux Users💥
+### Info
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
