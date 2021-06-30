@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media2.giphy.com/media/1LweXxLwVT0J2/giphy.mp4?cid=ecf05e47fpyobztidd35dxqmma3j2bg4jzqycnb4ijv0xqdk&rid=giphy.mp4&ct=g" width="480"height"480"/>
+<img src="https://media2.giphy.com/media/1LweXxLwVT0J2/giphy.gif?cid=ecf05e47fpyobztidd35dxqmma3j2bg4jzqycnb4ijv0xqdk&rid=giphy.gif&ct=g" width="270" height="480"/>
 </p>
 
 # Serversito
